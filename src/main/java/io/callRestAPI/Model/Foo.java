@@ -12,11 +12,6 @@ public class Foo {
 	private Headers headers;
 	private String url;
 	
-	
-	
-
-	
-
 	public Foo() {
 		
 	}
